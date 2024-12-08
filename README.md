@@ -7,16 +7,26 @@
 </div>
 <hr>
 
-* 👯 Our Team:
-  * [Bijay BK](https://github.com/bijay-develops)
-  * [Mikal Paudel](https://github.com/mikalPaudel)
-  * [Bardan Nepali](https://github.com/Bardan2)
-  * [Minal Paudel](https://github.com/Leonthelion137)
-  * [Rajesh Chhetri](https://github.com/RajeshChhetri2004)
-  * [Aayush Pradhan](https://github.com/AayushcodesFX)
-  * Nabin BK
+<div align="center">
+ 👯
+  
+  Our Team:
+  
+  [Bijay BK](https://github.com/bijay-develops)
+  
+  [Mikal Paudel](https://github.com/mikalPaudel)
+   
+  [Bardan Nepali](https://github.com/Bardan2)
+   
+   [Minal Paudel](https://github.com/Leonthelion137)
+   
+   [Rajesh Chhetri](https://github.com/RajeshChhetri2004)
+   
+   [Aayush Pradhan](https://github.com/AayushcodesFX)
+   
+   Nabin BK
 
-<h3 align="left">🔗 Connect with us:</h3>
+<h3 align="center">🔗 Connect with us:</h3>
 <a href="https://www.linkedin.com/company/103288923/admin/dashboard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61554181363616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-
+</div>
