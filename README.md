@@ -21,10 +21,6 @@
    [Minal Paudel](https://github.com/Leonthelion137)
    
    [Rajesh Chhetri](https://github.com/RajeshChhetri2004)
-   
-   [Aayush Pradhan](https://github.com/AayushcodesFX)
-   
-   Nabin BK
 
 <h3 align="center">🔗 Connect with us:</h3>
 <a href="https://www.linkedin.com/company/103288923/admin/dashboard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
